@@ -1,9 +1,9 @@
 .footer-container {
-    background-color: #D2691E;
+    background-color: #808080;
     padding: 1rem 0 0 0;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    color: aliceblue;
+    color: #D2691E;
 }
